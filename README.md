@@ -12,5 +12,5 @@ If you do make a donation, then please let @heyjaywilson know or say you did in 
 
 # Moderators
 
-@heyjaywilson@iosdev.space - owner/admin
-@kylewritescode@iosdev.space
+- @heyjaywilson@iosdev.space - owner/admin
+- @kylewritescode@iosdev.space
