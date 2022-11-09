@@ -1,4 +1,4 @@
-Welcome to the iOS Dev Space! I run the server 👋 if you have any issues with the server, let me know!
+Welcome to the iOS Dev Space! I help run the server 👋 if you have any issues with the server, let me know!
 
 Make sure to checkout the rules ➡️ https://iosdev.space/about/more
 
