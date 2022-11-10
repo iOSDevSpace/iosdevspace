@@ -35,6 +35,7 @@ The community really appreciates anyone who donates their time and or money to k
 
 ## Member+
 - @CompileSwift@iosdev.space
+- @Babbage@iosdev.space
 
 ## One time
 - @Cocoaheadsnl@iosdev.space
