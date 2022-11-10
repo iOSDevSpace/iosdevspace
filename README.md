@@ -19,11 +19,13 @@ The moderators are here to help keep the server in shape, make sure no spam come
 
 ---
 
-# Hosting
+# Server Information
 
 The server is hosted by [Masto.host](https://masto.host) through @heyjaywilson's account. 
 
 - Current level: Star
+
+A log of all server history can be found on the [Ko-Fi page](https://ko-fi.com/iosdevspace/posts).
 
 ---
 
@@ -35,6 +37,7 @@ The community really appreciates anyone who donates their time and or money to k
 
 ## Member+
 - @CompileSwift@iosdev.space
+- @Babbage@iosdev.space
 
 ## One time
 - @Cocoaheadsnl@iosdev.space
