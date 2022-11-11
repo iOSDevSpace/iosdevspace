@@ -42,3 +42,4 @@ The community really appreciates anyone who donates their time and or money to k
 ## One time
 - @Cocoaheadsnl@iosdev.space
 - @We7ee@iosdev.space
+- @rothomp3@iosdev.space
