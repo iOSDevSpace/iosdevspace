@@ -4,4 +4,4 @@
 2. Be Polite. Don't be rude to anyone. That's not welcome here. If someone is rude, then report the post and account so that the moderators can handle it.
 3. Do not post adult content, including pictures containing nudity, or unwelcome sexual attention (including sexualized comments or jokes).
 4. Do not post about inflammatory, controversial subjects without a Content Warning.
-5. Accounts solely for app promotions are not allowed. You can make an account documenting your progress, but an account for your app only is not allowed.
+<!--5. Accounts solely for app promotions are not allowed. You can make an account documenting your progress, but an account for your app only is not allowed.-->
