@@ -2,7 +2,7 @@
 
 iOS Dev Space is a Mastodon Server for all Swift developers to have a more focused Mastodon timeline.
 
-This GitHub repo is used to document processes and universal messages used by moderators or admin of the space.
+This GitHub repo is used to document processes, rules, and universal messages used by moderators or admin of the space.
 
 ## Join
 
