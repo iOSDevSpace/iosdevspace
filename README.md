@@ -41,3 +41,5 @@ The community really appreciates anyone who donates their time and or money to k
 - @We7ee@iosdev.space
 - @rothomp3@iosdev.space
 - @feli@iosdev.space
+- @robkerr@iosdev.space
+- @dvzran@iosdev.space
