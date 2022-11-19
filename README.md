@@ -31,10 +31,14 @@ Supporters are organized by Ko-Fi tiers and then by one time supporters.
 
 The community really appreciates anyone who donates their time and or money to keeping the server going.
 
+### iOS Dev Blue
+- @lordmooch@iosdev.space
+
 ### Member+
 - @CompileSwift@iosdev.space
 - @Babbage@iosdev.space
 - @dadederk@iosdev.space
+- @johnbrayton@iosdev.space
 
 ### One time
 - @Cocoaheadsnl@iosdev.space
@@ -43,3 +47,6 @@ The community really appreciates anyone who donates their time and or money to k
 - @feli@iosdev.space
 - @robkerr@iosdev.space
 - @dvzran@iosdev.space
+- @icopano@iosdev.space
+- @w1w1m@iosdev.space
+- @fadi@iosdev.space
