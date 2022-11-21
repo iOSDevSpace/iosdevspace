@@ -2,9 +2,10 @@
 
 Keeps a record of the changes on [iOSdev.space](https://iosdev.space). This won't follow the pattern of [keep a changelog](https://keepachangelog.com/en/1.0.0/), but it will keep a chronological record of everything that happens in relation to the server.
 
-## Nov 20 2022
+## Nov 21 2022
 
 - Welcome Message updates to include Open Collective link.
+- Donations [page](./docs/donations.md) created
 
 ## Nov 19 2022
 

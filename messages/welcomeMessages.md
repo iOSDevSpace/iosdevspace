@@ -2,7 +2,7 @@ Welcome to the iOS Dev Space! I run the server 👋 if you have any issues with 
 
 Make sure to checkout the rules ➡️ https://iosdev.space/about
 
-Make a donation to cover maintenance costs of the instance ➡️ https://ko-fi.com/iosdevspace or https://opencollective.com/iosdevspace
+Make a donation to cover maintenance costs of the instance ➡️ https://opencollective.com/iosdevspace or https://ko-fi.com/iosdevspace
 
 Make sure to post and introduce yourself using #introduction
 
