@@ -6,9 +6,9 @@ This GitHub repo is used to document processes, rules, and universal messages us
 
 ## Join
 
-To join iOS Dev Space, head over to the website. To keep the site going, make a [donation at ko-fi.com/iosdevspace](https://ko-fi.com/iosdevspace) or share the ko-fi link.
+To join iOS Dev Space, head over to [iOSDev.space](https://iosdev.space/). It is encouraged to make a donation if you are able to. Please do so on [OpenCollective](https://opencollective.com/iosdevspace) or [Ko-Fi](https://ko-fi.com/iosdevspace).
 
-If you do make a donation, then please let @heyjaywilson know or say you did in your reason to join the server.
+If you do make a donation, then please let @heyjaywilson know or say you did in your reason to join the server. To know how donations are used, the check out the [donations doc](./donations.md).
 
 ## Moderators
 
@@ -19,28 +19,31 @@ The moderators are here to help keep the server in shape, make sure no spam come
 
 ## Server Information
 
-The server is hosted by [Masto.host](https://masto.host) through @heyjaywilson's account. 
+The server is hosted by [Masto.host](https://masto.host) through @heyjaywilson's account.
 
 - Current level: Star
 
-A log of all server history can be found on the [Ko-Fi page](https://ko-fi.com/iosdevspace/posts).
+A log of all server history can be found in the [CHANGELOG](./CHANGELOG.md). The CHANGELOG is the single source of truth for all server updates.
 
 ## Supporters
 
-Supporters are organized by Ko-Fi tiers and then by one time supporters.
+Supporters are organized by Ko-Fi or Open Collective tiers and then by one time supporters.
 
 The community really appreciates anyone who donates their time and or money to keeping the server going.
 
 ### iOS Dev Blue
+
 - @lordmooch@iosdev.space
 
 ### Member+
+
 - @CompileSwift@iosdev.space
 - @Babbage@iosdev.space
 - @dadederk@iosdev.space
 - @johnbrayton@iosdev.space
 
 ### One time
+
 - @Cocoaheadsnl@iosdev.space
 - @We7ee@iosdev.space
 - @rothomp3@iosdev.space
