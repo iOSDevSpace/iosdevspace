@@ -21,35 +21,7 @@ The moderators are here to help keep the server in shape, make sure no spam come
 
 The server is hosted by [Masto.host](https://masto.host) through @heyjaywilson's account.
 
-- Current level: Star
+- Current level: Constellation
 
 A log of all server history can be found in the [CHANGELOG](./CHANGELOG.md). The CHANGELOG is the single source of truth for all server updates.
 
-## Supporters
-
-Supporters are organized by Ko-Fi or Open Collective tiers and then by one time supporters.
-
-The community really appreciates anyone who donates their time and or money to keeping the server going.
-
-### iOS Dev Blue
-
-- @lordmooch@iosdev.space
-
-### Member+
-
-- @CompileSwift@iosdev.space
-- @Babbage@iosdev.space
-- @dadederk@iosdev.space
-- @johnbrayton@iosdev.space
-
-### One time
-
-- @Cocoaheadsnl@iosdev.space
-- @We7ee@iosdev.space
-- @rothomp3@iosdev.space
-- @feli@iosdev.space
-- @robkerr@iosdev.space
-- @dvzran@iosdev.space
-- @icopano@iosdev.space
-- @w1w1m@iosdev.space
-- @fadi@iosdev.space
