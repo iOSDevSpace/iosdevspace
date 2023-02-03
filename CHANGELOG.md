@@ -4,6 +4,10 @@ Keeps a record of the changes on [iOSdev.space](https://iosdev.space). This won'
 
 ## Nov 21 2022
 
+- Upgraded Hosting from a Star to a Constellation
+
+## Nov 21 2022
+
 - Welcome Message updates to include Open Collective link.
 - Donations [page](./docs/donations.md) created
 
