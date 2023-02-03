@@ -6,7 +6,7 @@ This GitHub repo is used to document processes, rules, and universal messages us
 
 ## Join
 
-To join iOS Dev Space, head over to [iOSDev.space](https://iosdev.space/). It is encouraged to make a donation if you are able to. Please do so on [OpenCollective](https://opencollective.com/iosdevspace) or [Ko-Fi](https://ko-fi.com/iosdevspace).
+To join iOS Dev Space, head over to [iOSDev.space](https://iosdev.space/). It is encouraged to make a donation if you are able to. Please do so on [OpenCollective](https://opencollective.com/iosdevspace).
 
 If you do make a donation, then please let @heyjaywilson know or say you did in your reason to join the server. To know how donations are used, the check out the [donations doc](./docs/donations.md).
 
