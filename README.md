@@ -15,7 +15,6 @@ If you do make a donation, then please let @heyjaywilson know or say you did in 
 The moderators are here to help keep the server in shape, make sure no spam comes through, and keep people following the [rules](./docs/rules.md).
 
 - @heyjaywilson@iosdev.space - owner/admin
-- @kylewritescode@iosdev.space
 
 ## Server Information
 
