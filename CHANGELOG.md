@@ -2,6 +2,10 @@
 
 Keeps a record of the changes on [iOSdev.space](https://iosdev.space). This won't follow the pattern of [keep a changelog](https://keepachangelog.com/en/1.0.0/), but it will keep a chronological record of everything that happens in relation to the server.
 
+## Dec 4 2024
+
+- Added more database storage. [Open Collective Update](https://opencollective.com/iosdevspace/updates/added-more-storage)
+
 ## Jan 9 2024
 
 - Added elastic search to the instance for full text search
