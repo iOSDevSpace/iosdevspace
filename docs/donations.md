@@ -6,17 +6,11 @@ Both the domain and original hosting plan were paid for by CCT Plus LLC, which i
 
 ## Where to make a donation
 
-Donations are accepted at two places, currently. [Open Collective](https://opencollective.com/iosdevspace) and [Ko-Fi](https://ko-fi.com/iosdevspace). You can make a one time contribution or subscribe monthly to both. There are two monthly subscriptions "Member+" and "iOS Dev Blue".
-
-### Is there a prefernce?
-
-Jay would prefer if donations were made on Open Collective.
+Donations are accepted at [Open Collective](https://opencollective.com/iosdevspace). You can make a one time contribution or subscribe monthly.
 
 ## How are donations managed?
 
-Ko-Fi donations will go into a PayPal or a bank account managed by CCT Plus LLC and has the donated amount separated from other business use. They will then be put in manually by Jay into the Open Collective log.
-
-Open Collective donations go into a bank account managed by CCT Plus LLC and has the donated amount separated from other business use.
+Open Collective donations are managed and dispersed through the Fiscal Host [Open Source Collective](https://opencollective.com/opensource).
 
 ## How are expenses recorded?
 
